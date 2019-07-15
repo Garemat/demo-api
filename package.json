@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:lukebond/demo-api.git"
+    "url": "git@github.com:garemat/demo-api.git"
   },
   "keywords": [
     "demo",
@@ -17,9 +17,9 @@
   "author": "Luke Bond <luke.n.bond@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lukebond/demo-api/issues"
+    "url": "https://github.com/garemat/demo-api/issues"
   },
-  "homepage": "https://github.com/lukebond/demo-api",
+  "homepage": "https://github.com/garemat/demo-api",
   "dependencies": {
     "ip": "^0.3.1",
     "restify": "^2.8.1"
