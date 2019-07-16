@@ -1,7 +1,7 @@
 {
   "name": "demo-api",
   "version": "0.0.1",
-  "description": "Contrived demo app for testing CI servers",
+  "description": "Contrived demo app for testing CI servers2",
   "main": "index.js",
   "scripts": {
     "test": "./test/test.sh"
